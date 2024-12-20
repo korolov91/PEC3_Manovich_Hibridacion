@@ -1,4 +1,4 @@
-# PEC3: Hibridación: Azure y Paypal
+# PEC3: Hibridación: Microsoft Azure y Paypal
 
 ### Recurso de aprendizaje de Cultura Digital 
 
@@ -33,7 +33,7 @@ En el caso de plataforma digital de pagamento Paypal esta plataforma combina var
 En este caso las dos tecnologías como Azure y Paypal según el libro de lev Manovich demuestran centralización de varias técnicas o formas en un software.
 
 
-## Caso de hibridación: La nube de Microsoft: Azure
+## Caso de hibridación: Microsoft Azure
 
 ![microsoft-azure-cloud-logo](https://github.com/user-attachments/assets/dc8ae5a2-2159-4440-ba75-8501ed6d78cd)
 
