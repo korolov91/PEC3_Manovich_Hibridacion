@@ -8,8 +8,8 @@ Autor: Illya Korolov Levkovsky
 
 Fecha: 
 
-## Introducción
 
+## Introducción
 
 Según el libro de Lev Manovich “El Software toma el mando (2013)” podemos entender Hibridación como integración y combinación de las técnicas o formas en el único software o plataforma digital. También hibridación defiende transformación de métodos y formas tradicionales en nuevas soluciones tecnológicas.
 
@@ -32,11 +32,8 @@ En el caso de plataforma digital de pagamento Paypal esta plataforma combina var
 
 En este caso las dos tecnologías como Azure y Paypal según el libro de lev Manovich demuestran centralización de varias técnicas o formas en un software.
 
-![image](https://github.com/user-attachments/assets/df6e11eb-05ae-4ced-9ab4-8b0f3fd71484)
 
-
-
-## Caso de hibridación: La nube de Microsoft: Azure![image](https://github.com/user-attachments/assets/6843a033-11ed-47e0-8c9f-36196e9d0cc4)
+## Caso de hibridación: La nube de Microsoft: Azure
 
 ![Microsoft_Azure svg](https://github.com/user-attachments/assets/614612e1-29fd-4994-9697-197c2f2007cb)
 
@@ -66,10 +63,9 @@ Así como describe Manovich en siguiente parte del libro entendemos que Manovich
 “En segundo lugar, los híbridos pueden centrarse en nuevas maneras de navegar e interaccionar con formatos de medios ya existentes”
 
 Como hemos visto en el ejemplo anterior con empresa de comercio electrónico que usa Azure en este caso en Azure pueden usar tecnologías existentes. Con otras palabras, en el interfaz de usuario de Azure pueden usar las mismas tecnologías que se puede usar en infraestructuras físicas independientes. Estas tecnologías pueden ser diferentes, pero hacer el mismo funcionamiento.
-![image](https://github.com/user-attachments/assets/b45eacb1-b18f-41e6-b178-79b79513ea2c)
 
 
-## Caso de hibridación: Paypal![image](https://github.com/user-attachments/assets/56f66f7b-8082-4371-b424-225c4dd52168)
+## Caso de hibridación: Paypal
 
 ![PayPal](https://github.com/user-attachments/assets/1c876204-934a-4e85-85ec-6927e614bbbf)
 
@@ -97,7 +93,7 @@ Así como define Manovich en su libro que un hibrido puede definir nuevos format
 Como hemos visto con el ejemplo de paypal que usa nuevo formato, pero usa técnica ya existente de transferencia de dinero. Otro ejemplo es seguridad de usuarios que defiende a comprador después de una compra o durante una compra como no compartir información bancaria o permite realizar devolución de dinero en caso si producto no llega o llega dañado (En este caso simplemente se abre el caso con paypal para tramitar devolución de dinero). En el ejemplo con devolución de dinero posiblemente si usaríamos otros métodos de pago esta operación no sería tan fácil como en paypal o posiblemente no sería posible. También podemos destacar cambio directo de moneda. 
 
 Otro ejemplo de hibridación es pago con paypal en la tienda física mediante código QR. Simplemente al crear código QR y escanearlo se realizar el cobro por un producto o servicio. En este caso esta operación se realiza sin usar dinero en efectivo y sin compartir datos bancarios del comprador.
-![image](https://github.com/user-attachments/assets/bbe5649b-278d-4352-93de-47f6b1d796ae)
+
 
 ## Conclución 
 
@@ -113,7 +109,6 @@ También Manovich describe en su libro siguiente:
 “Es decir, el resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes.”
 
 Con este apartado Manovich quería explicar que el resultado de hibridación no es solo sumar técnicas o formas existentes. Es creación de interfaz unificado y amigable para el usuario. 
-![image](https://github.com/user-attachments/assets/6b82e96c-e32d-48a8-b4eb-a1f888c1189f)
 
 
 ### Referencias y Bibliografía
