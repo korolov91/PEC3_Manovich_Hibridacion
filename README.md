@@ -17,11 +17,11 @@ En algunas ocasiones podemos entender hibridación como simulación de los objec
 
 Como ejemplo en el siguiente parte Lev Manovich quiere describir simulación de siguiente manera:
 
-* * “Una respuesta ingenua sería que los ordenadores simulan los objetos verdaderos de estos medios. Por ejemplo, una foto digital simularía una foto analógica revelada en papel, una ilustración digital simularía un dibujo ilustrado sobre papel, y un vídeo digital simularía un vídeo analógico grabado en videocasete. Pero no es así como funcionan las cosas.”
+- -“Una respuesta ingenua sería que los ordenadores simulan los objetos verdaderos de estos medios. Por ejemplo, una foto digital simularía una foto analógica revelada en papel, una ilustración digital simularía un dibujo ilustrado sobre papel, y un vídeo digital simularía un vídeo analógico grabado en videocasete. Pero no es así como funcionan las cosas.”
 
 Como entendemos en esta parte Lev Monovish describe simulación o integración de los objectos/cosas de mundo físico en el mundo digital. Pero en este caso en realidad lo que simula software son las técnicas, formas o lenguajes. 
 
-* * “Lo que el software simula son las técnicas físicas, mecánicas o electrónicas empleadas para navegar, crear, editar e interaccionar con los datos de los medios.”
+- -“Lo que el software simula son las técnicas físicas, mecánicas o electrónicas empleadas para navegar, crear, editar e interaccionar con los datos de los medios.”
 
 En este caso es muy importante no confundir hibridación con simulación. 
 
