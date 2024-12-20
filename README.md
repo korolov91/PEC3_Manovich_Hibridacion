@@ -1,8 +1,5 @@
 # PEC3: Hibridación: Microsoft Azure y Paypal
 
-### Recurso de aprendizaje de Cultura Digital 
-
-
 Autor: Illya Korolov Levkovsky
 
 Grado de Multimedia
