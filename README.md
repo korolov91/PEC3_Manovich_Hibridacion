@@ -52,7 +52,8 @@ Como vemos con ejemplo de entorno Azure y entorno físico mucho más facial mont
 
 Así como describe Manovich en siguiente parte del libro entendemos que Manovich quiere explicar que los híbridos pueden integrar las técnicas o formas de medios ya existentes. 
 
-_“En segundo lugar, los híbridos pueden centrarse en nuevas maneras de navegar e interaccionar con formatos de medios ya existentes”_
+_“En segundo lugar, los híbridos pueden centrarse en nuevas maneras de navegar e interaccionar con formatos de medios ya existentes”_ **(Lev Manovich, 2013)**
+
 
 Como hemos visto en el ejemplo anterior con empresa de comercio electrónico que usa Azure en este caso en Azure pueden usar tecnologías existentes. Con otras palabras, en el interfaz de usuario de Azure pueden usar las mismas tecnologías que se puede usar en infraestructuras físicas independientes. Estas tecnologías pueden ser diferentes, pero hacer el mismo funcionamiento.
 
@@ -80,7 +81,7 @@ En estos ejemplos podemos ver dos ejemplos de usa de paypal es pago en el comerc
 
 Así como define Manovich en su libro que un hibrido puede definir nuevos formatos, pero usar técnicas ya existentes.
 
-_“En resumen, un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, pero utilizar técnicas de interacción/interfaz ya existentes. Un híbrido también puede combinar ambas estrategias, es decir, definir nuevas interfaces/herramientas y nuevos formatos de medios al mismo tiempo.”_
+_“En resumen, un híbrido puede definir nuevas técnicas de navegación e interacción que funcionan con formatos de medios no modificados. Por otro lado, un híbrido puede definir nuevos formatos de medios, pero utilizar técnicas de interacción/interfaz ya existentes. Un híbrido también puede combinar ambas estrategias, es decir, definir nuevas interfaces/herramientas y nuevos formatos de medios al mismo tiempo.”_ **(Lev Manovich, 2013)**
 
 Como hemos visto con el ejemplo de paypal que usa nuevo formato, pero usa técnica ya existente de transferencia de dinero. Otro ejemplo es seguridad de usuarios que defiende a comprador después de una compra o durante una compra como no compartir información bancaria o permite realizar devolución de dinero en caso si producto no llega o llega dañado (En este caso simplemente se abre el caso con paypal para tramitar devolución de dinero). En el ejemplo con devolución de dinero posiblemente si usaríamos otros métodos de pago esta operación no sería tan fácil como en paypal o posiblemente no sería posible. También podemos destacar cambio directo de moneda. 
 
@@ -98,7 +99,7 @@ En el caso de paypal también observamos unificación de diferentes técnicas co
 
 También Manovich describe en su libro siguiente:
 
-_“Es decir, el resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes.”_
+_“Es decir, el resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes.”_ **(Lev Manovich, 2013)**
 
 Con este apartado Manovich quería explicar que el resultado de hibridación no es solo sumar técnicas o formas existentes. Es creación de interfaz unificado y amigable para el usuario. 
 
