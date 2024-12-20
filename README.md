@@ -5,26 +5,17 @@
 
 Autor: Illya Korolov Levkovsky
 
+Grado de Multimedia
 
-Fecha: 
+Fecha: 20/12/2024
 
 
 ## Introducción
 
 Según el libro de Lev Manovich “El Software toma el mando (2013)” podemos entender Hibridación como integración y combinación de las técnicas o formas en el único software o plataforma digital. También hibridación defiende transformación de métodos y formas tradicionales en nuevas soluciones tecnológicas.
 
-En algunas ocasiones podemos entender hibridación como simulación de los objectos del mundo físico en el mundo digital. Con otras palabras, como ejemplo si antes para pintar usaban pincel de diferentes tamaños, pero hoy en día hay posibilidad de usar Photoshop y en este caso desabolladores de Photoshop integraron varias herramientas como ejemplo posibilidad de usar pincel de varios tamaños en formato digital en el Photoshop. Con ejemplo de Photoshop podemos entender que varios efectos eran integrados desde el mundo físico. 
-
-Como ejemplo en el siguiente parte Lev Manovich quiere describir simulación de siguiente manera:
-
-_“Una respuesta ingenua sería que los ordenadores simulan los objetos verdaderos de estos medios. Por ejemplo, una foto digital simularía una foto analógica revelada en papel, una ilustración digital simularía un dibujo ilustrado sobre papel, y un vídeo digital simularía un vídeo analógico grabado en videocasete. Pero no es así como funcionan las cosas.”_
-
-Como entendemos en esta parte Lev Monovish describe simulación o integración de los objectos/cosas de mundo físico en el mundo digital. Pero en este caso en realidad lo que simula software son las técnicas, formas o lenguajes. 
-
-_“Lo que el software simula son las técnicas físicas, mecánicas o electrónicas empleadas para navegar, crear, editar e interaccionar con los datos de los medios.”_
-
-En este caso es muy importante no confundir hibridación con simulación. 
-
+En este ensayo exploraremos dos casos de hibridación de dos tecnologías contemporáneas: Microsoft Azure, una tecnología de la nube y Paypal, un sistema de pagos digitales. Las dos plataformas muestran como la hibridación integra diversas técnicas y servicios en una sola tecnología.
+ 
 Así como hemos dicho al principio Hibridación integra y combina las técnicas en el único software o plataforma digital. En este caso las técnicas y formas pueden ser diferentes. En nuestro ejemplo podemos definir dos tecnologías que presentan hibridación y es La nube de Microsoft: Azure y plataforma digital de pagamento Paypal.
 
 Como en el ejemplo con la nube de Microsoft: Azure podemos relacionar esta tecnología con la hibridación porque combina y integra varias técnicas y formas. En concreto combina varios servicios y tecnologías como virtualización (máquinas virtuales), almacenamiento, bases de datos y herramientas de desarrollo. Como ejemplo Azure integra bases de datos que tradicionalmente era una tecnología independiente y normalmente se montaba sobre el servidor físico o virtual independiente pero hoy en día podemos montar este servicio en dos clics en nuestra cuenta de Azure. En este caso gracias a esta hibridación las empresas o organizaciones de educación pueden montar su infraestructura con máquinas virtuales y bases de datos en una plataforma.
