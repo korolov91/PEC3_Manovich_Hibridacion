@@ -84,7 +84,7 @@ Como hemos visto con el ejemplo de paypal que usa nuevo formato, pero usa técni
 Otro ejemplo de hibridación es pago con paypal en la tienda física mediante código QR. Simplemente al crear código QR y escanearlo se realizar el cobro por un producto o servicio. En este caso esta operación se realiza sin usar dinero en efectivo y sin compartir datos bancarios del comprador.
 
 
-## Conclución 
+## Conclusión 
 
 La hibridación de Azure y Paypal nos muestra como el software trasforma diferentes técnicas y formas en soluciones unificadas que produce impacto sobre sociedad y mundo empresarial. 
 
