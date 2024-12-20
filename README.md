@@ -35,7 +35,8 @@ En este caso las dos tecnologías como Azure y Paypal según el libro de lev Man
 
 ## Caso de hibridación: La nube de Microsoft: Azure
 
-![Microsoft_Azure svg](https://github.com/user-attachments/assets/614612e1-29fd-4994-9697-197c2f2007cb)
+![microsoft-azure-cloud-logo](https://github.com/user-attachments/assets/dc8ae5a2-2159-4440-ba75-8501ed6d78cd)
+
 
 Azure es plataforma de computación en la nube creada por Microsoft para construir, probar, desplegar y administrar aplicaciones y servicios utilizando su infraestructura. Azure integra varios servicios y tecnologías que anteriormente eran independientes. Los servicios más comunes son maquinas virtuales, bases de datos, aplicaciones, almacenamiento, redes virtuales o herramientas de desarrollo.
 
@@ -52,7 +53,7 @@ Con el ejemplo de Azure podemos imaginar que una empresa de comercio electrónic
 
 Si comparamos como harían despliegue de estos servicios en infraestructura física entonces los pasos serían siguientes:
 1)Montar como mínimo 5 servidores físicos.
-2) Instalar SQL Server, Instalar servidores web, Instalar Azure DevOps Server, Instalar Machine Learning server
+2)Instalar SQL Server, Instalar servidores web, Instalar Azure DevOps Server, Instalar Machine Learning server
 3)Montar cabina de discos como servidor de almacenamientos donde se guardará todo información relacionada con servidores.
 4) Configurar las redes
 
