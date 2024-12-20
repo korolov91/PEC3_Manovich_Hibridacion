@@ -52,10 +52,10 @@ Herramientas de AI - Como ejemplo una de las principales herramientas de AI es A
 Con el ejemplo de Azure podemos imaginar que una empresa de comercio electrónico que vende en línea ciertos productos ha decidido optar por la infraestructura en la nube. En este caso como ejemplo pueden montar bases de datos y conectarl bases de datos con página web para almacenar todos los registros de ventas. En este caso empresa de este tipo va tener almacenada cierta información de las ventas y posteriormente pueden conectar servicio Azure Machine Learning con bases de datos para poder crear modelos predictivos de las ventas y para poder analizar post venta de productos para cada temporada. También como ejemplo empresa de comercio electrónico puede usar Azure DevOps Server desplegado en la nube para realizar controla de versiones de software sobre cual trabajan programadores. En este caso puede ser una pagina web que juega papel más importante de la impresa de comercio electrónico. También esta pagina web pueden ejecutar directamente en las aplicaciones de Azure sin ejecutar servidores web independientes como apache o tomcat. En general toda esta infraestructura se puede desplegar en corto tiemplo. 
 
 Si comparamos como harían despliegue de estos servicios en infraestructura física entonces los pasos serían siguientes:
-1)Montar como mínimo 5 servidores físicos.
-2)Instalar SQL Server, Instalar servidores web, Instalar Azure DevOps Server, Instalar Machine Learning server
-3)Montar cabina de discos como servidor de almacenamientos donde se guardará todo información relacionada con servidores.
-4) Configurar las redes
+1. Montar como mínimo 5 servidores físicos.
+2. Instalar SQL Server, Instalar servidores web, Instalar Azure DevOps Server, Instalar Machine Learning server
+3. Montar cabina de discos como servidor de almacenamientos donde se guardará todo información relacionada con servidores.
+4. Configurar las redes
 
 Como vemos con ejemplo de entorno Azure y entorno físico mucho más facial montar toda esta infraestructura en la nube en corto tiempo. Como podemos observar Azure combina varias tecnologías en una plataforma por eso podemos relacionar Azure con hibridación según el libro de Manovich. 
 
@@ -73,11 +73,11 @@ Como hemos visto en el ejemplo anterior con empresa de comercio electrónico que
 PayPal es un servicio de pagos en línea que permite a las personas y empresas realizar transferencias electrónicas de dinero. Puede enviar, recibir y mantener fondos en diferentes monedas de todo el mundo.
 
 Paypal combina siguiente características:
-Trasferencias de dinero – permite a usuarios de paypal enviar y recibir dinero entre las cuentas paypal o cuentas bancarias
-Pagos en líneas – Se puede usar para realizar pagos en comercios electrónicos como tiendas en línea.
-Seguridad – Usa varios protocoles como seguridad de datos personales, autentificación de doble factor o transacciones encriptadas sin compartir datos bancarios. 
-Multimoneda – Se puede realizar transacciones en diferentes monedas. Cambio de tipo de moneda (ejemplo: de euro a francos suizos)
-Integración con plataformas de comercio – Se integra con varias plataformas de comercio para poder recibir los pagos por productos o servicios. También hay posibilidad de realizar los pagos por productos o servicios en las tiendas físicas mediante código QR.
+* Trasferencias de dinero – permite a usuarios de paypal enviar y recibir dinero entre las cuentas paypal o cuentas bancarias
+* Pagos en líneas – Se puede usar para realizar pagos en comercios electrónicos como tiendas en línea.
+* Seguridad – Usa varios protocoles como seguridad de datos personales, autentificación de doble factor o transacciones encriptadas sin compartir datos bancarios. 
+* Multimoneda – Se puede realizar transacciones en diferentes monedas. Cambio de tipo de moneda (ejemplo: de euro a francos suizos)
+* Integración con plataformas de comercio – Se integra con varias plataformas de comercio para poder recibir los pagos por productos o servicios. También hay posibilidad de realizar los pagos por productos o servicios en las tiendas físicas mediante código QR.
 
 Como podemos observar paypal integra varias técnicas en una plataforma que permite a usuarios realizar varias operaciones financieras desde la cuenta Paypal.
 
