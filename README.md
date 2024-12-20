@@ -107,8 +107,8 @@ En el caso de paypal también observamos unificación de diferentes técnicas co
 
 También Manovich describe en su libro siguiente:
 
-_“Es decir, el resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes.”
-_
+_“Es decir, el resultado de la hibridación no es tan solo la suma mecánica de las partes existentes previamente, sino una nueva «especie»: un nuevo tipo de estética visual que no existía antes.”_
+
 Con este apartado Manovich quería explicar que el resultado de hibridación no es solo sumar técnicas o formas existentes. Es creación de interfaz unificado y amigable para el usuario. 
 
 
