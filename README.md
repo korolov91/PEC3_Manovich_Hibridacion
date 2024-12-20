@@ -10,6 +10,8 @@ Fecha:
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
+![Microsoft_Azure svg](https://github.com/user-attachments/assets/eddd6868-33cd-47d5-a39b-fa661550fea1)
+
 
 
 ## Planteamiento
