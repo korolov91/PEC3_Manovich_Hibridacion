@@ -1,4 +1,4 @@
-# PEC3: Hibridación: Microsoft Azure y Paypal
+# PEC3 - Hibridación: Microsoft Azure y Paypal
 
 Autor: Illya Korolov Levkovsky
 
