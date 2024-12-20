@@ -37,7 +37,6 @@ Aplicaciones – permite crear aplicación o con otras palabras un contenedor pa
 Almacenamiento – permite crear storage o con otras palabras permite crear almacenamiento virtual para almacenar datos de diferentes tipos (video, foto o archivos)
 Redes virtuales – En Azure se llama como VPS que permite crear redes virtuales para poderlas integrar con diferentes servicios como máquinas virtuales o bases de datos. 
 Herramientas de desarrollo – En este caso podemos destacar Azure DevOps Server. Es un conjunto de herramientas de desarrollo de software colaborativo para todo el equipo que permite realizar control de versiones. 
-
 Herramientas de AI - Como ejemplo una de las principales herramientas de AI es Azure Machine Learning es un servicio en la nube que permite acelerar y administrar el ciclo de vida de los proyectos de aprendizaje automático (ML). Los profesionales del aprendizaje automático, científicos de datos e ingenieros pueden usarlo en sus flujos de trabajo diarios para entrenar e implementar modelos, y administrar operaciones de aprendizaje automático (MLOps).
 
 Con el ejemplo de Azure podemos imaginar que una empresa de comercio electrónico que vende en línea ciertos productos ha decidido optar por la infraestructura en la nube. En este caso como ejemplo pueden montar bases de datos y conectarl bases de datos con página web para almacenar todos los registros de ventas. En este caso empresa de este tipo va tener almacenada cierta información de las ventas y posteriormente pueden conectar servicio Azure Machine Learning con bases de datos para poder crear modelos predictivos de las ventas y para poder analizar post venta de productos para cada temporada. También como ejemplo empresa de comercio electrónico puede usar Azure DevOps Server desplegado en la nube para realizar controla de versiones de software sobre cual trabajan programadores. En este caso puede ser una pagina web que juega papel más importante de la impresa de comercio electrónico. También esta pagina web pueden ejecutar directamente en las aplicaciones de Azure sin ejecutar servidores web independientes como apache o tomcat. En general toda esta infraestructura se puede desplegar en corto tiemplo. 
@@ -109,9 +108,10 @@ Con este apartado Manovich quería explicar que el resultado de hibridación no 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 * Wikipedia: Azure. [consulta: 17/12/2024]. Disponible en: https://es.wikipedia.org/wiki/Microsoft_Azure
 * Wikipedia: Paypal. [consulta: 16/12/2024]. Disponible en: https://es.wikipedia.org/wiki/PayPal
+* Microsoft:  Azure DevOps Server. [consulta: 17/12/2024]. Disponible en: https://azure.microsoft.com/es-es/products/devops/server
+* Microsoft:  Azure Machine Learning. [consulta: 17/12/2024]. Disponible en: https://azure.microsoft.com/es-es/free/machine-learning/search/?ef_id=_k_CjwKCAiAyJS7BhBiEiwAyS9uNcF5GzFzSm9nHJP91sXhwY6sgdpIRAFNy5YPaX1n_CX1dVQXahlUjRoCw6wQAvD_BwE_k_&OCID=AIDcmm68ejnsa0_SEM__k_CjwKCAiAyJS7BhBiEiwAyS9uNcF5GzFzSm9nHJP91sXhwY6sgdpIRAFNy5YPaX1n_CX1dVQXahlUjRoCw6wQAvD_BwE_k_&gad_source=1&gclid=CjwKCAiAyJS7BhBiEiwAyS9uNcF5GzFzSm9nHJP91sXhwY6sgdpIRAFNy5YPaX1n_CX1dVQXahlUjRoCw6wQAvD_BwE
+
  
-
-
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
