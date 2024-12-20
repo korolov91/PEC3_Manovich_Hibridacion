@@ -106,7 +106,10 @@ Con este apartado Manovich quería explicar que el resultado de hibridación no 
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Wikipedia: Azure. [consulta: 17/12/2024]. Disponible en: https://es.wikipedia.org/wiki/Microsoft_Azure
+* Wikipedia: Paypal. [consulta: 16/12/2024]. Disponible en: https://es.wikipedia.org/wiki/PayPal
+ 
 
 
 ----
